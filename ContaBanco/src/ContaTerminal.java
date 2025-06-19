@@ -10,8 +10,7 @@ public class ContaTerminal {
         var nomeCliente = "Mario de Andrade";
         double saldo = 237.48;
         System.out.println("Olá " + nomeCliente + ", obrigado por criar uma conta em nosso banco, sua agência é " + agencia + ", conta " +numeroConta + " e seu saldo R$ " + saldo + " já está disponível para saque.");
-
-
+        
         scanner.close();
     }
 }
